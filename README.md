@@ -41,6 +41,8 @@ Aqua
 - CSS
 - JavaScript
 
+>**Live Site: [Change Background Color Site](https://vlorozco.github.io/change-background-color/)**
+
 ## What I Learned
 
 I completed this project to practice basic JavaScript functions, utilizing the `addEventListener()` method when a button is clicked, that returns a visual change in the background color.
