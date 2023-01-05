@@ -2,13 +2,15 @@
 JavaScript Project | Change background color when button is clicked
 
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [What I Learned](#what-i-learned)
-4. [Author](#author)
+- [Change Background Color with JavaScript](#change-background-color-with-javascript)
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+  - [Technologies](#technologies)
+  - [What I Learned](#what-i-learned)
+    - [Author](#author)
 ---
 ## General Information
-This is the first project from [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/)
+This is Project #1 from [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/)
 The task is to create a button, that can be clicked to change the background of the screen view.
 
 ---
@@ -20,6 +22,7 @@ The task is to create a button, that can be clicked to change the background of 
 ---
 ## What I Learned
 I completed this project to practice basic JavaScript functions, utilizing the `addEventListener()` method when a button is clicked, that returns a visual change in the background color.
+
 ---
 ### Author
 - Github - [Veronica L. Orozco](https://github.com/VLOrozco)
